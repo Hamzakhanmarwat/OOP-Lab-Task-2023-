@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Bankislami.vcxproj, OOP_GUI_ASSIGNMENT.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  HomePage.cpp
+  Bankislami.cpp
+  Generating Code...
+  HomePage.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  OOP_GUI_ASSIGNMENT.vcxproj -> E:\22P-9178_Hamza-Khan\OOP_GUI_ASSIGNMENT\Debug\OOPGUIASSIGNMENT.exe
